@@ -1,7 +1,7 @@
-# A Unity Project
+# A Unity Project Template
 
-## Starting from this clean slate
+A template project for Unity projects, currently compatible with Unity Editor version `2017.02.0f3`.
 
-1. Rename your project, its as easy as renaming the directory under `unity` to whatever you like,
-   and loading it with `Other` in the initial `Unity` screen.
-2. Rewrite this README.md file
+This was written to be used with [`ecology`](https://github.com/irreverent-pixel-feats/ecology).
+
+So instantiating it follows the interface specified there.
