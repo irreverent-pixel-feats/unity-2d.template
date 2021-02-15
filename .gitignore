@@ -1,0 +1,12 @@
+# IDE
+.vs/
+.vscode/
+
+UnityLockfile
+*.log
+Temp/
+CrashedAssetImports.txt
+Library/
+obj/
+*.sln
+*.csproj
